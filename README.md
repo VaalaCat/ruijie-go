@@ -14,3 +14,9 @@ linux:
 ```
 ./ruijie-go 学号 密码
 ```
+
+ios版快捷指令(支持siri和自动化)链接：https://url.vaala.cloud/7okaeR
+
+请在编辑中修改自己的学号姓名
+
+![image](https://user-images.githubusercontent.com/42285362/166674744-3c83866b-ed6a-4d3b-a359-7c0041686441.png)
